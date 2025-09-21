@@ -1,6 +1,6 @@
 {
     "name": "playwright-slack-notifier",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/index.js",
     "type": "module",
     "bin": {
@@ -9,6 +9,14 @@
     "scripts": {
         "test": "jest"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Bh-bts/playwright-slack-notifier.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Bh-bts/playwright-slack-notifier/issues"
+    },
+    "homepage": "https://github.com/Bh-bts/playwright-slack-notifier",
     "dependencies": {
         "@babel/core": "^7.28.4",
         "@babel/preset-env": "^7.28.3",
